@@ -31,5 +31,3 @@
 <img title="Git" align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img title="XML" align="left" alt="XML" width="50px" src="https://www.svgrepo.com/show/31053/xml.svg"/>
 <img title="JSON" align="left" alt="JSON" width="50px" src="https://cdn-icons-png.flaticon.com/512/136/136525.png"/>
-
-<br/>
