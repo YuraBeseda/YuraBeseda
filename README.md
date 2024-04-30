@@ -1,10 +1,8 @@
 ## Yurii Beseda
 
 -   👋 Hi, I’m Yurii.
--   👀 I aspire to become a software developer, looking for a coop opportunity.
--   🏫 I’m currently studying computer programming at Algonquin College.
--   📫 Reach me at **yuriy.beseda@gmail.com**.
--   Some of my repositories are private due to Algonquin College requirements.
+-   👀 I aspire to become a software developer, looking for a job opportunities.
+-   📫 Reach me at **yurii.beseda@gmail.com**.
 
 ## 🤖 Back-End
 
