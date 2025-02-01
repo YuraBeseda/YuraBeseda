@@ -1,7 +1,7 @@
 ## Yurii Beseda
 
 -   👋 Hi, I’m Yurii.
--   👀 I aspire to become a software developer, looking for a job opportunities.
+-   👀 I’m a software developer with two years of experience, currently looking for new opportunities.
 -   📫 Reach me at **yurii.beseda@gmail.com**.
 
 ## 🤖 Back-End
